@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" style="width: 155px;" src="./assets/logo.png">
-    <h1>Some Title</h1>
+    <img alt="Vue logo" style="width: 155px;" src="../src/assets/logo.png">
+    <h1>Stocks</h1>
     <hr>
     <table-component></table-component>
   </div>

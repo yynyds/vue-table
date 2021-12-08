@@ -21,7 +21,7 @@
       </div>
     </div>
     <div v-show="errorMsg" style="padding: 20px;font-size: 16px;">
-      no data
+      no data. try again
     </div>
   </div>
 </template>
